@@ -9,7 +9,8 @@
        "persistent": false
    },
    "icons": {
-   		"16": "icon.png"
+      "16": "icon-small.png",
+      "128": "icon.png"
    }
 
 }
